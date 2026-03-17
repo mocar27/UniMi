@@ -1,6 +1,6 @@
 # UniMi
 
-Repository contains assigments I was required to do during Erasmus+ exchange at the University of Milan. 🇮🇹
+Repository contains assigments I was required to do during Erasmus+ exchange at the University of Milan 🇮🇹.
 
 Repository of each course contains just a quick brief of the task.
 

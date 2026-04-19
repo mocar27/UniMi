@@ -4,7 +4,7 @@ Repository contains assigments I was required to do during Erasmus+ exchange at 
 
 Repository of each course contains just a quick brief of the task.
 
-**Courses I've done during my Erasmus exchange are:**
+**Courses I've been doing during my Erasmus exchange:**
 
 - Autonomous Robots and Agents 
 - Reinforcement Learning

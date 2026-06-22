@@ -5,7 +5,7 @@ Repository contains assigments I was required to do during Erasmus+ exchange at 
 **Courses I've been doing during my Erasmus exchange:**
 
 - Autonomous Robots and Agents 
-- Reinforcement Learning
+- [Reinforcement Learning](https://github.com/mocar27/rl-unimi)
 - 3D Video Games
 - Workshop: Software tools for machine learning
 

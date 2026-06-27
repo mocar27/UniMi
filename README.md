@@ -11,4 +11,8 @@ Repository contains assigments I was required to do during Erasmus+ exchange at 
 
 Description of each task is included in the task's directory or designated repository.
 
+Almost all of the classes and evaluation crieria were based solely on the lecture notes and final exam.
+My only classes that have required additional project/lab work were **Reinforcement Learning** and **STML**.
+The tasks and solutions to these projects are included in designated directories.
+
 **Only the solutions belong to me, the content of the tasks belongs to their authors.**
